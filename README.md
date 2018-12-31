@@ -13,7 +13,7 @@ Steps to use:
 Example usage:
  
 import datepy
-datepy.number_of_days(‘2018-01-01’,’2018-01-03’)
-->	3
-datepy.days_distribution(‘2018-01-01’,’2018-01-03’)
--> {‘Monday’:1,’Tuesday’:1,’Wednesday’:1}
+datepy.number_of_days(‘2018-01-01’,’2018-01-03’)</br>
+->	3</br>
+datepy.days_distribution(‘2018-01-01’,’2018-01-03’)</br>
+-> {‘Monday’:1,’Tuesday’:1,’Wednesday’:1}</br>
