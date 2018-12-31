@@ -10,9 +10,9 @@ Steps to use:
 2. cd datepy
 3.	pip install .
  
-Example usage:
+<b>Example usage:</b></br>
  
-import datepy
+import datepy</br>
 datepy.number_of_days(‘2018-01-01’,’2018-01-03’)</br>
 ->	3</br>
 datepy.days_distribution(‘2018-01-01’,’2018-01-03’)</br>
